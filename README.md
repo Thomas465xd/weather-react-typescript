@@ -1,1 +1,1 @@
-# Weather Searcher - React, TypeScript, CSS Modules and Open Weather API
+# Weather Searcher - React TypeScript
