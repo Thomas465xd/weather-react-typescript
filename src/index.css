@@ -1,7 +1,10 @@
 :root {
     --white: #fff;
     --primary: #f59e0b;
+    --dark-gray: #333; /* Dark gray for better contrast in select dropdown */
+    --background: #000; /* You can add more variables if needed */
 }
+
 
 html {
     font-size: 62.5%;
