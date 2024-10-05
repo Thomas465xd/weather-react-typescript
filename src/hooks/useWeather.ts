@@ -5,7 +5,7 @@ export default function useWeather() {
 
     const fetchWeather = async (search: SearchType) => {
 
-        const appId = 'b6e0c14e15b7085e4a88fa50a53d79bf'
+        const appId = ''
         
         try {
 
